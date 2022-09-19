@@ -1,1 +1,1 @@
-# IRIS classification using KNN 
+# Iris dataset classification using KNN 
